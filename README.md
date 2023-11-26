@@ -26,7 +26,7 @@ This is the first project in FLIT apprenticeship projectized learning. The datas
 * Use list comprehension to convert the numpy array of item descriptions into a list of lists, where each list contains a different set of items.
 * Use a transaction encoder to get frequent item sets and then store them in a data frame.
 
-# Apriori Algorithms
+# Apriori Algorithm
 * Apply the apriori algorithms.
 * Create a column with the length of the itemsets.
 * Apply the association rule based on a minimum threshold of 0.02.
