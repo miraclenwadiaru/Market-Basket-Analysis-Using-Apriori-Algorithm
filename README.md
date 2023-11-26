@@ -7,7 +7,7 @@ This is the first project in FLIT apprenticeship projectized learning. The datas
  
 # Steps
 
-# Data loading and inspection:
+# Data loading and inspection
 * Import the necessary libraries and read the datasets.
 * Check the shape of the dataset and the datatype of the columns.
 * Check for missing and duplicated values.
@@ -31,7 +31,7 @@ This is the first project in FLIT apprenticeship projectized learning. The datas
 * Create a column with the length of the itemsets.
 * Apply the association rule based on a minimum threshold of 0.02.
  
-# Insights
+# Insight
 * Use lift and confidence for the evaluation of the association rule.
 
 # Conclusion
